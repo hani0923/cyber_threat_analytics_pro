@@ -1,0 +1,6 @@
+label,records,avg_packets,avg_bytes
+BENIGN,547,15.75,1843.0
+Bot,24,16.21,1834.83
+Brute Force,46,16.59,1841.09
+DoS,109,15.99,1838.88
+PortScan,74,15.28,1843.08
